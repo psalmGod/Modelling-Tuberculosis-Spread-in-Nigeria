@@ -11,6 +11,7 @@ All of these are required to run this project files
 * Model Proposal is a file that contains a proposal on how the model is to run and how data is to be collected
 * 9th Digit EDA is a jupyter notebook here all the codes needed to explore the gathered data sets was written
 * Model Development is a file that contains the mathematical theoretical formulations of the model and the methods of actualizing this model
+* Tuberculosis Modelling file is a jupyter notebook where all codes used in making the predictions is stored and the GUI used in communicating results is stored
 
 
 ### Note: ( you can contact me for a copy of the zip file for easy running)
