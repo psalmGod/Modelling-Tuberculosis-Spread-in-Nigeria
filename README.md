@@ -7,4 +7,10 @@ All of these are required to run this project files
 * Jupyter to run the ipynb Notebook file
 * Visual studio or sublime to read the html code and store in an html file for easy running
 
+### Files Description
+* Model Proposal is a file that contains a proposal on how the model is to run and how data is to be collected
+* 9th Digit EDA is a jupyter notebook here all the codes needed to explore the gathered data sets was written
+* Model Development is a file that contains the mathematical theoretical formulations of the model and the methods of actualizing this model
+
+
 ### Note: ( you can contact me for a copy of the zip file for easy running)
